@@ -1,0 +1,14 @@
+.Player {
+  width: 171px;
+  height: 50px;
+  background: #8f0000;
+}
+
+.demo-1 {
+  transition: width 1000ms ease-out;
+}
+
+.demo-1:hover {
+  width: 1440px;
+  height: 50px;
+}
